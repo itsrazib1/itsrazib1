@@ -2,12 +2,6 @@
 #### I am Web Developer
 ![I am Web Developer](https://i.ibb.co/6PXQM0Y/Black-Blue-Clean-Digital-Professional-Digital-Marketing-Linked-In-Article-Cover-Image-1.jpg)
 
-I bring a wealth of experience and expertise to the table, with a strong foundation in web development. Over the years, I have honed my skills in React, HTML, CSS, and CSS frameworks. My proficiency extends to Next.js, JavaScript, and Firebase, making me a versatile developer capable of creating dynamic and engaging web applications.
-
-Beyond technical prowess, I have also demonstrated leadership qualities by successfully leading teams. My ability to collaborate effectively, communicate ideas clearly, and drive projects forward has proven invaluable in achieving team goals and project milestones.
-
-My passion for web development, coupled with my experience and leadership capabilities, positions me as a valuable asset for any project or team. I am excited to continue pushing the boundaries of what web technology can achieve and contribute to the success of future endeavors.
-
 Skills:  REACT / Nextjs /JS / HTML / CSS / MongoDB / Express / Node / Firebase
 
 
