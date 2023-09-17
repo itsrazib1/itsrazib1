@@ -16,10 +16,7 @@ Skills:  REACT / Nextjs /JS / HTML / CSS / MongoDB / Express / Node / Firebase
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsrazib1&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itsrazib1)  
-
 ![GitHub metrics](https://metrics.lecoq.io/itsrazib1)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=itsrazib1)  
-
-![Profile views](https://gpvc.arturio.dev/itsrazib1)  
+ 
