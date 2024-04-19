@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Khayrul Kober Razib
 #### I am Web Developer
-![I am Web Developer]([https://i.ibb.co/6PXQM0Y/Black-Blue-Clean-Digital-Professional-Digital-Marketing-Linked-In-Article-Cover-Image-1.jpg](https://i.ibb.co/QrmCf5g/Purple-Gradient-Digital-Marketing-Linked-In-Banner.png))
+![I am Web Developer](https://i.ibb.co/QrmCf5g/Purple-Gradient-Digital-Marketing-Linked-In-Banner.png)
 # 💫 About Me:
 Mern Stack Developer
 
