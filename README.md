@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Khayrul Kober Razib
-![I am Web Developer](https://i.ibb.co/QrmCf5g/Purple-Gradient-Digital-Marketing-Linked-In-Banner.png)
+![I am Web Developer](https://i.ibb.co/pPVQrN0/Purple-Gradient-Digital-Marketing-Linked-In-Banner.png)
 # 💫 About Me:
 Full Stack Developer With Expertise in Creating Dynamic and Responsive Web Applications.Proficient in
 JavaScript, React ,NextJS , Node.js ,ExpressJS , Redux and MongoDB. Strong problem-solving skills and a
